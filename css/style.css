@@ -134,6 +134,7 @@ body{
 
 .notification{
     position: relative;
+    cursor: pointer;
 }
 .notification-dot{
     display: block;
